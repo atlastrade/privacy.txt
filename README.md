@@ -1,0 +1,2 @@
+# privacy.txt
+Gizlilik Politikası
